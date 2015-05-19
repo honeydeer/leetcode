@@ -8,7 +8,7 @@
 
 3.[Week3 Sort](https://github.com/ia-cas/leetcode/wiki/week3-%E6%8E%92%E5%BA%8F%EF%BC%88by-%E5%BC%A0%E4%BC%A0%E5%BC%BA%EF%BC%89)
 
-4.Week4 Tree
+4.[Week4 Tree](https://github.com/ia-cas/leetcode/wiki/Week4-%E6%A0%91%EF%BC%88by-%E6%96%BD%E4%BC%9F%EF%BC%89)
 
 5.Week5 Binary Search Trees 
 
